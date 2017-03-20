@@ -22,7 +22,7 @@
 #   this version ignores all files by default
 # -----------------------------------------------------------------
 
-Movefile
+Movefile.yaml
 
 # ignore everything in the root except the "wp-content" directory.
 /*
